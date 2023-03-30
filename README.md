@@ -1,6 +1,6 @@
 ## Self Driving Car
 
-![JavaScript](https://img.shields.io/badge/Javascript-93.5%25-#F7DF1E?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-93.5%25-F7DF1E?style=flat-square&logo=JavaScript) ![HTML](https://img.shields.io/badge/HTML-3.8%25-E34F26?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-2.7%25-1572B6?style=flat-square&logo=css3) 
 
 JavaScript - Self Driving Car demonstrates the application of Neural Network, 500 cars were generated and the best car which performed no collision is set as best car and the sensors (rays) are set on the best car, the screenshots are present in Source Code. Basic physics are applied on the car like max speed, backward speed, left and right rotation angle, getting disabled on collision and so on. More traffic and features to be added, click on restart the car at starting position.
 
