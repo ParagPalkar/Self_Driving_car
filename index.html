@@ -6,35 +6,11 @@
 <body>
     <canvas id="carCanvas"></canvas>
     
-    
-    
-    
-    <div class="card">
-        
-        <div class="container">
-          <h4><b>Self Driving Car</b></h4> 
-          <p><b>
-            JavaScript - Self Driving Car demonstrates the application of Feed Forward Algorithm, 500 cars were generated and the best car which performed no collision is set as best car and the sensors (rays) are set on the best car, the screenshots are present in Source Code. Basic physics are applied on car like mas speed, backward speed, left and right rotation angle, getting disabled 
-            on collision and so on. More traffic and features to be added, click on restart the car at starting position.
-        </b></p>
-
-        <p><b>On the right hand side visualizer is built based on math to demonstrate the Neural network and to demonstrate the move decision of the car. The bottom layer is first input layer, whereas the topmost layer is output layer, the forward, 
-            backward (or break), left and right arrows animates when the car decides to move in that particular direction.
-          </b></p>
-
-
-        </div>
-
-        <button type="button" onClick="window.location.reload()">Restart</button>
-        <button type="button" onClick="window.open('https://www.linkedin.com/in/parag-palkar-453675193')">LinkedIn</button>
-        <button type="button" onClick="window.open('https://github.com/ParagPalkar/Self_Driving_car')">Source Code</button>
-        
-
-    </div>
-    
-
-    
-
+    <div id="verticalButtons">
+      <button onclick="save()">Save</button>
+      <button onclick="discard()">Reset</button>
+      <button type="button" onClick="window.location.reload()">Reload</button>
+    </div>    
     <canvas id="networkCanvas"></canvas>
     <script src="visualizer.js"></script>
     <script src="network.js"></script>
