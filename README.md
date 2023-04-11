@@ -30,6 +30,3 @@ https://user-images.githubusercontent.com/59173091/228913629-52cb5234-6c9d-4ed1-
 [FREECODECAMP](https://www.youtube.com/@freecodecamp)
 
 
-
-https://user-images.githubusercontent.com/59173091/228913118-d0baffbb-c7cd-4599-a780-6844625a3e09.mp4
-
